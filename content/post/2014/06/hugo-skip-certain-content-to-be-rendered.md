@@ -1,6 +1,6 @@
 +++
 title 		= "Skip a contenttype/section to be renderend"
-tags 		= ["hugo""]
+tags 		= ["hugo"]
 categories	= ["Development"]
 date		= "2014-06-09"
 +++
