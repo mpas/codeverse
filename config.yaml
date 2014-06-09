@@ -1,0 +1,9 @@
+---
+title: "CodeVerse"
+params:
+    AuthorName: "Marco Pas"
+taxonomies:
+    tag: "tags"
+    category: "categories"
+baseurl: "http://mpas.github.io/"
+...
