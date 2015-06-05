@@ -1,1 +1,1 @@
-hugo11 server --watch -t hugo-journal
+hugo server --watch -t hugo-journal

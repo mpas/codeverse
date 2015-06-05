@@ -1,41 +1,32 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<html class="no-js" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+
+    <meta name="description" content="{{ .Title }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+
     <meta name="keyword" content="">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>{{.Title}}</title>
+    <title>{{ if eq .Url "/" }}{{ .Site.Title }}{{ else if eq .Url "/post/" }}All Entries &middot; {{ .Site.Title }}{{ else if in .Url "/tags/" }}Tags | {{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
 
  	<!-- default bootstrap css -->
-	<link href="/css/journal.css" rel="stylesheet">
+	<link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/journal.css">
 
  	<!-- custom css -->
- 	<link href="/css/style.css" rel="stylesheet">
+ 	<link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/style.css">
+
+    <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/font-awesome.min.css">
+    
+    <!-- javascript -->
+    <script src="{{ .Site.BaseUrl }}/js/jquery.min-2.1.4.js"></script>
+    <script src="{{ .Site.BaseUrl }}/js/bootstrap.min-3.3.4.js"></script>
+
+    <!-- rss -->
+    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 </head>
 <body lang="en">
-	<div class="container">
-		<div class="row">
-			<div class="navbar navbar-default navbar-inverse" role="navigation">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="{{.Site.BaseUrl}}">{{ .Site.Title }}</a> 
-				</div>
-				<div class="navbar-collapse collapse navbar-responsive-collapse">
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="{{ .Site.BaseUrl }}">Home</a></li>
-						<li><a href="{{ .Site.BaseUrl }}/page/about/">About</a></li>
-						<li><a href="{{ .Site.BaseUrl }}/page/resume/">Resume</a></li>
-						<li><a href="{{ .Site.BaseUrl }}/post/">Blog</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
+    <!-- navbar -->
+    {{ partial "navbar" . }}
