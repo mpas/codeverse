@@ -17,7 +17,7 @@ paginate    = 10                        # the number of posts on a page
 
 [params.theme]
     inverse = false     # indicating if the theme should use inversed colors
-    name = "cerulean"   # name of the theme to use
+    name = "journal"   # name of the theme to use
 
     # list of possible theme names that can be used
     # name = "cerulean"
