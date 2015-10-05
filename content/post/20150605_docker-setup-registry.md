@@ -107,7 +107,7 @@ Now that we have a running secured Docker Registry we can configure the Docker c
 
 - copy the `docker-registry.crt` file from our server to your local machine. This file is located in `/opt/docker/registry/conf`. Put the copy in a place where you can find it.
 
-### Ubuntu
+### Ubuntu Docker Client
 In order to get the local client working, we need to install Docker and register the `docker-registry.crt` certificate file!
 
 - install docker
