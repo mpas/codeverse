@@ -1,23 +1,52 @@
-baseurl     = "http://mpas.github.io/"  # the baseurl for your website
-title       = "CodeVerse"               # blog title
-paginate    = 10                        # the number of posts on a page
+baseurl         = "http://mpas.github.io"   # the baseurl for your website
+title           = "CodeVerse"               # blog title
+paginate        = 10                        # the number of posts on a page
 
 [permalinks]
     post = "/blog/:year/:month/:day/:title/"
 
 [params]
+    # language code for your website
+    languagecode = "en-US"
+
     # name of the site author; used in header meta information
     author = "Marco Pas"
 
-    # social links, used in footer, these must be full URLs.
+    # copyright text; used in footer
+    copyright = "2015 ~ Marco Pas"
+
+    # social links; used in footer, these must be full URLs!
     twitter = "https://twitter.com/marcopas"
     github = "https://github.com/mpas"
     facebook = "https://www.facebook.com/marco.pasopas"
     delicious = "https://delicious.com/marcopas"
+    linkedin = "https://www.linkedin.com/in/marcopas"
+    flickr =  "https://www.flickr.com/photos/marcopas/"
+
+    # show default summaries on the frontpage or not
+    use_summaries = false
+
+[params.strings]
+    # naming of the elements in your blog/site
+
+    # name of the link to the homepage
+    home_navbar_link = "Home"
+
+    # name of the link to the blog page
+    blog_navbar_link = "Blog"
+
+    # name of the header used in the post list page
+    posts_list_header = "Posts"
+    
+    # used date format
+    date_format = '02.01.2006'
 
 [params.theme]
-    inverse = false     # indicating if the theme should use inversed colors
-    name = "journal"   # name of the theme to use
+    # indicating if the theme should use inversed colors
+    inverse = true
+
+    # name of the theme to use
+    name = "cerulean"    
 
     # list of possible theme names that can be used
     # name = "cerulean"

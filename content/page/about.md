@@ -1,14 +1,27 @@
 +++
 title 	= "About"
-date	= "2015-01-01"
+date	= "2015-10-30"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus hendrerit venenatis. Vivamus tempus dui eu magna interdum, sed lobortis metus elementum. Vivamus eu est pretium, congue turpis eget, luctus augue. Vivamus sed dignissim risus, quis scelerisque purus. Sed feugiat justo at orci porttitor, at porta nunc egestas. Maecenas malesuada vitae mauris et lobortis. Vivamus consequat dictum lobortis.
+<img src="/images/marco-pas-profile-picture.jpg" width="150" style="margin: 0px 15px 0px 0px; float:left;">
+<p>
+Hi there, let me please introduce myself. My name is Marco Pas and live in the surroundings of Breda (Netherlands). To be more specific you can find me in a small place called [Rijsbergen](https://www.google.nl/maps/place/4891+Rijsbergen/@51.5138148,4.6080621,12z/data=!3m1!4b1!4m2!3m1!1s0x47c41e71ba78dad5:0x999721ff9144c8d2). I am proud father of 3 beautifull children, married, love to travel and watch movies. So nothing special :)
 
-Nulla nec gravida purus. Nullam a diam id erat vehicula imperdiet. Vivamus eget dignissim magna, in vulputate magna. Quisque condimentum pretium ligula, at sollicitudin dolor facilisis nec. Nullam at ultrices risus, nec ultricies ligula. Duis convallis commodo vestibulum. Donec mi ligula, blandit quis cursus eget, dictum quis ante. Proin nec tincidunt ipsum. Ut id urna dolor. Nunc fringilla velit urna, quis aliquet erat pellentesque in. Vivamus lacinia elementum diam, quis laoreet dolor blandit nec. Nam ut urna id dolor ultricies lacinia nec at neque. Donec porta consequat convallis.
+Where can you find me:
 
-Phasellus vitae magna vel dolor posuere scelerisque in quis nulla. Nunc vel sapien vel tellus commodo placerat. Morbi non egestas diam, ac condimentum orci. Morbi rutrum nulla mi, non fringilla leo consectetur eget. Nulla vestibulum, lectus non iaculis hendrerit, orci dolor congue nibh, nec commodo velit sapien vitae urna. Nam nisl lacus, tristique eget libero ac, commodo lobortis ante. Cras cursus malesuada nulla, nec eleifend ligula consequat eu. Nullam varius augue sit amet ipsum mollis, in viverra massa varius. Sed a orci commodo, ornare justo gravida, venenatis est. Morbi bibendum nunc dui, ac tincidunt orci mollis sed. Cras nec erat non metus dignissim euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc sit amet dui at metus posuere volutpat. Nunc id faucibus nisi.
+[LinkedIn](https://www.linkedin.com/in/marcopas) ~ [Twitter](https://twitter.com/marcopas) ~ [Flickr](https://www.flickr.com/photos/marcopas/) ~ [Delicious](https://delicious.com/marcopas) ~ [FaceBook](https://www.facebook.com/marco.pasopas) ~ [GitHub](https://github.com/mpas)
+</p>
 
-Morbi pharetra viverra nisl, sed imperdiet urna consequat aliquam. In euismod, quam a consectetur imperdiet, diam ante sollicitudin augue, ac sollicitudin urna lorem quis libero. In id luctus tortor, et auctor enim. Maecenas tincidunt placerat tincidunt. Morbi tortor ligula, congue sit amet vulputate nec, porttitor quis libero. Quisque imperdiet pretium viverra. Praesent non odio turpis. In fringilla a enim quis accumsan. Pellentesque id porttitor magna. Curabitur tincidunt purus turpis, accumsan mollis metus dignissim ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce malesuada leo nec est tincidunt semper.
+---
 
-Donec elementum neque vel ligula blandit, ut semper metus vulputate. Integer vulputate, neque vel aliquet suscipit, elit arcu mattis dui, fermentum venenatis mi mauris non risus. Curabitur at metus non urna condimentum pharetra. Phasellus facilisis odio vestibulum leo sodales, sed fermentum turpis interdum. Vestibulum faucibus venenatis nisl, eu laoreet odio tempor in. In accumsan metus tortor, sit amet imperdiet ante mollis at. Cras lacinia mi leo, eu sollicitudin est convallis quis. Integer congue leo vitae fermentum posuere. Curabitur posuere, est sed condimentum tristique, sem nibh consequat ligula, at vestibulum dui nisi nec ante. Duis porta nisi sit amet nunc viverra, quis tincidunt tellus faucibus.
+### Professional career
+---
+#### 2013 - present : Philips Research
+
+#### 2008 - 2013: IHomer
+
+#### 1997 - 2008: CMG / LogicaCMG / Logica
+
+#### 1995 - 1997: Jan de Rijk Logistics
+
+### Developer/Software Engineer/Doing fun things

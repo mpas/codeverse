@@ -1,98 +1,105 @@
 +++
-title 	= "Resume"
-date	= "2015-01-01"
+title = "Curriculum Vitae"
+date  = "2015-01-01"
 +++
 
-Johnny Coder
-============
+<hr class="style-one">
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+<div class="row">
+  <div class="col-sm-6">
+      <h1 style="margin:0;">Marco Pas</h1>
+  </div>
+  <div class="col-sm-6">
+    <span class="pull-right" style="text-align:right;">
+      +31 - 6 188 08 521<br>
+      marco.pasopas@gmail.com<br>
+      30-01-1973<br>
+      <a href="http://mpas.github.io">GitHub</a> • <a href="https://twitter.com/marcopas">Twitter</a> • <a href="https://nl.linkedin.com/in/marcopas">LinkedIn</a> • <a href="https://www.facebook.com/marco.pasopas">Facebook</a>
+    </span>
+  </div>
+</div>
 
-Education
----------
+<hr class="style-one">
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+#### Short Summary
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+<hr class="style-one">
 
-    *Minor: Awesomeology*
+<div class="row">
+    <div class="col-sm-2" >
+      <span class="text-primary">
+        <strong><i>Interests</i></strong>
+      </span>
+    </div>
+    <div class="col-sm-10">
+      Web & Mobile Application Development • Cloud Infrastructure • DevOps
+    </div>
+</div>
 
-Experience
-----------
+<br>
 
-**Your Most Recent Work Experience:**
+<div class="row">
+    <div class="col-sm-2">
+      <span class="text-primary">    
+        <strong><i>Skills</i></strong>
+      </span>
+    </div>
+    <div class="col-sm-10">
+        <strong>Programming Languages</strong><br>
+          Java • Groovy • HTML(5) • CSS(3) • JavaScript
+          <br><br>
+        <strong>Frameworks</strong><br>
+        Grails • Spring • Spring Cloud • Spring Boot
+    </div>
+</div>
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+<br>
 
-* First item
+<div class="row">
+    <div class="col-sm-2">
+      <span class="text-primary">    
+        <strong><i>Education</i></strong>
+      </span>
+    </div>
+    <div class="col-sm-10">
+    </div>
+</div>
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+<br>
 
-**That Other Job You Had**
+<div class="row">
+    <div class="col-sm-2">
+      <span class="text-primary">    
+        <strong><i>Professional Experience</i></strong>
+      </span>
+    </div>
+    <div class="col-sm-10">
+    </div>
+</div>  
 
-Also with a short description.
+<hr class="style-one">
 
-Technical Experience
---------------------
+#### Work Experience
+##### Software Designer / Architect at Philips Research
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Summary of your role
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+- Accomplishment that contains **bold text**.
+- Accomplishment
+- Accomplishment
+- Accomplishment
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+##### Software Designer / Architect at IHomer
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+<a href="h"></a>

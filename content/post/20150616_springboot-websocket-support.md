@@ -9,6 +9,8 @@ Adding support for [WebSockets](https://en.wikipedia.org/wiki/WebSocket) / [Stom
 
 The following example will enable a server to send messages to a WebSocket/Stomp client.
 
+<!--more-->
+
 * Modify `build.gradle`
 
 ```

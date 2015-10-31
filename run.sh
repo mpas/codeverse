@@ -1,2 +1,2 @@
 rm -rf public
-hugo server --theme=hugo-bootswatch --buildDrafts --watch
+hugo server --theme=hugo-multi-bootswatch --buildDrafts --watch

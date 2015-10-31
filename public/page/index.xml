@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on CodeVerse</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on CodeVerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/marco-pas-profile-picture.jpg&#34; width=&#34;150&#34; style=&#34;margin: 0px 15px 0px 0px; float:left;&#34;&gt;
+&lt;p&gt;
+Hi there, let me please introduce myself. My name is Marco Pas and live in the surroundings of Breda (Netherlands). To be more specific you can find me in a small place called &lt;a href=&#34;https://www.google.nl/maps/place/4891+Rijsbergen/@51.5138148,4.6080621,12z/data=!3m1!4b1!4m2!3m1!1s0x47c41e71ba78dad5:0x999721ff9144c8d2&#34;&gt;Rijsbergen&lt;/a&gt;. I am proud father of 3 beautifull children, married, love to travel and watch movies. So nothing special :)&lt;/p&gt;
+
+&lt;p&gt;Where can you find me:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/marcopas&#34;&gt;LinkedIn&lt;/a&gt; ~ &lt;a href=&#34;https://twitter.com/marcopas&#34;&gt;Twitter&lt;/a&gt; ~ &lt;a href=&#34;https://www.flickr.com/photos/marcopas/&#34;&gt;Flickr&lt;/a&gt; ~ &lt;a href=&#34;https://delicious.com/marcopas&#34;&gt;Delicious&lt;/a&gt; ~ &lt;a href=&#34;https://www.facebook.com/marco.pasopas&#34;&gt;FaceBook&lt;/a&gt; ~ &lt;a href=&#34;https://github.com/mpas&#34;&gt;GitHub&lt;/a&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;professional-career:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Professional career&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;2013-present-philips-research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;2013 - present : Philips Research&lt;/h4&gt;
+
+&lt;h4 id=&#34;2008-2013-ihomer:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;2008 - 2013: IHomer&lt;/h4&gt;
+
+&lt;h4 id=&#34;1997-2008-cmg-logicacmg-logica:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;1997 - 2008: CMG / LogicaCMG / Logica&lt;/h4&gt;
+
+&lt;h4 id=&#34;1995-1997-jan-de-rijk-logistics:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;1995 - 1997: Jan de Rijk Logistics&lt;/h4&gt;
+
+&lt;h3 id=&#34;developer-software-engineer-doing-fun-things:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Developer/Software Engineer/Doing fun things&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/page/resume/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/page/resume/</guid>
+      <description>
+
+&lt;hr class=&#34;style-one&#34;&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+      &lt;h1 style=&#34;margin:0;&#34;&gt;Marco Pas&lt;/h1&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;span class=&#34;pull-right&#34; style=&#34;text-align:right;&#34;&gt;
+      +31 - 6 188 08 521&lt;br&gt;
+      marco.pasopas@gmail.com&lt;br&gt;
+      30-01-1973&lt;br&gt;
+      &lt;a href=&#34;http://mpas.github.io&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://twitter.com/marcopas&#34;&gt;Twitter&lt;/a&gt; • &lt;a href=&#34;https://nl.linkedin.com/in/marcopas&#34;&gt;LinkedIn&lt;/a&gt; • &lt;a href=&#34;https://www.facebook.com/marco.pasopas&#34;&gt;Facebook&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr class=&#34;style-one&#34;&gt;
+
+&lt;h4 id=&#34;short-summary:c59a67a3c7bc5faa453847420267045e&#34;&gt;Short Summary&lt;/h4&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;hr class=&#34;style-one&#34;&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-sm-2&#34; &gt;
+      &lt;span class=&#34;text-primary&#34;&gt;
+        &lt;strong&gt;&lt;i&gt;Interests&lt;/i&gt;&lt;/strong&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-sm-10&#34;&gt;
+      Web &amp; Mobile Application Development • Cloud Infrastructure • DevOps
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-sm-2&#34;&gt;
+      &lt;span class=&#34;text-primary&#34;&gt;    
+        &lt;strong&gt;&lt;i&gt;Skills&lt;/i&gt;&lt;/strong&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-sm-10&#34;&gt;
+        &lt;strong&gt;Programming Languages&lt;/strong&gt;&lt;br&gt;
+          Java • Groovy • HTML(5) • CSS(3) • JavaScript
+          &lt;br&gt;&lt;br&gt;
+        &lt;strong&gt;Frameworks&lt;/strong&gt;&lt;br&gt;
+        Grails • Spring • Spring Cloud • Spring Boot
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-sm-2&#34;&gt;
+      &lt;span class=&#34;text-primary&#34;&gt;    
+        &lt;strong&gt;&lt;i&gt;Education&lt;/i&gt;&lt;/strong&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-sm-10&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;col-sm-2&#34;&gt;
+      &lt;span class=&#34;text-primary&#34;&gt;    
+        &lt;strong&gt;&lt;i&gt;Professional Experience&lt;/i&gt;&lt;/strong&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-sm-10&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;  
+
+&lt;hr class=&#34;style-one&#34;&gt;
+
+&lt;h4 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h4&gt;
+
+&lt;h5 id=&#34;software-designer-architect-at-philips-research:c59a67a3c7bc5faa453847420267045e&#34;&gt;Software Designer / Architect at Philips Research&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Position Title (include alternate titles in parentheses)&lt;/strong&gt; (Start Date - End Date)&lt;/p&gt;
+
+&lt;p&gt;Summary of your role&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Accomplishment that contains &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accomplishment&lt;/li&gt;
+&lt;li&gt;Accomplishment&lt;/li&gt;
+&lt;li&gt;Accomplishment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;software-designer-architect-at-ihomer:c59a67a3c7bc5faa453847420267045e&#34;&gt;Software Designer / Architect at IHomer&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;h&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
