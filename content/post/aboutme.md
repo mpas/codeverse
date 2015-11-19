@@ -1,9 +1,8 @@
 +++
-title = "About Me"
+title = "About"
 menu = "main"
 date = "2015-10-30"
 categories = ["Personal"]
-tags = ["tag", "tag"]
 +++
 
 <img src="/images/marco-pas-profile-picture.jpg" width="150" style="margin: 0px 15px 0px 0px; float:left;">
@@ -16,7 +15,15 @@ Where can you find me:
 </p>
 
 ---
+### Experience
+---
+Technology
 
+
+### Architect/Developer/Software Engineer/Doing fun things
+Currently i am
+
+---
 ### Professional career
 ---
 #### 2013 - present : Philips Research
@@ -26,5 +33,3 @@ Where can you find me:
 #### 1997 - 2008: CMG / LogicaCMG / Logica
 
 #### 1995 - 1997: Jan de Rijk Logistics
-
-### Developer/Software Engineer/Doing fun things

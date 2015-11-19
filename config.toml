@@ -26,6 +26,9 @@ paginate        = 10                        # the number of posts on a page
     # show default summaries on the frontpage or not
     use_summaries = false
 
+    # show license
+    show_license = true
+    
 [params.strings]
     # naming of the elements in your blog/site
 
